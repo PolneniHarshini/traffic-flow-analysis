@@ -1,0 +1,9 @@
+opencv-python
+numpy
+torch
+torchvision
+ultralytics
+sort-tracker
+pafy
+youtube_dl
+pandas
